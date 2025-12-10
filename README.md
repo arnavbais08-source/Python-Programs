@@ -23,4 +23,29 @@ All Python programs
 20.Write a program to print star pattern
 21.Write a program to print the multiplication table for a number
 22.Write a program to access dictionary's elements
-23.
+23.Write a program to find the length of the list without using len function
+24.write a programk to check whether a number is palindrome or not
+25.write a program to check whether a number is armstrong number or not
+26.write a program to calculate count of string
+27.write a program to count vowels,consonants
+28.Write a program to calculate the number of words in a list
+29.Write a program for uppercase and lowercase
+30.Write a program for addition of two numbers using Function
+31.Write a program for substraction of two numbers using Function
+32.write a program for Multiplication of two numbers using Function
+33.Write a program for Division of two numbers using Function
+34.write a program to calculate the perimeter of a rectangle using function
+35.write a program to calculate the perimeter of a square using function
+36.write a program to calculate the area of a square using function
+37.write a program to calculate the area of a rectangle using function
+38.Write a program to check whether a number is even or not using function
+39.Write a program to check whether a year is leap or not using function
+40.Write a program to check whether a number is prime or not using function
+41.Write a program to find the temperature using function
+42.Write a program to find sum form 1 to n using function
+43.Write a program to calculate the square of number using function
+44.Write a program to count even number using function
+45.Write a program to find last digit using function
+46.Write a program to identify second largest number using function
+47.Write a program to get prime number in  range 
+48.Write a program to remove the duplicates in list
